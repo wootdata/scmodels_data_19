@@ -1,0 +1,7 @@
+Model: Elves
+Author: [TGP] Bryan: Mountain Dew Patrol
+Released: 12/24/2000
+Size: 186kb
+
+Additional skin modification (null2.bmp) by Ghraja-Jo
+Original skin = null.bmp

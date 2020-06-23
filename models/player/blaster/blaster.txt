@@ -1,0 +1,41 @@
+=================================================================
+ Blaster Half-Life model
+ by Aaron Smith		
+ e-mail Aaron: aadsmith@indiana.edu
+=================================================================
+Title                   : Thrust
+Author                  : Aaron Smith 
+			
+
+Description             : Half-Life player model for the 
+			  Autobot Tape Player, Blaster
+
+Additional Credits to   : Sierra, of course
+                          Hasbro Inc. for creating the 
+			   Transformers line of toys
+			  And of course, DC comics for releasing the
+			neat-o TV show (and movie!)
+                          
+Build Time              : About 5 or so hrs.
+=================================================================
+
+DESCRIPTION
+
+"Hold on to yo' receptors, perceptor!" It's the jive-tawkin' Blaster
+from Transformers, the Autobot's answer to Soundwave.
+
+INSTALLATION
+
+   After unzipping the files contained in the archive, put 
+   them in a directory called 'blaster', underneath 
+   Half-Life\valve\models\player\blaster
+   
+SKINS
+
+Blaster was scanned from the actual toy, and then cut up into the skin using Paint Shop Pro.
+
+SOUNDS
+
+   No sounds, sorry.
+
+

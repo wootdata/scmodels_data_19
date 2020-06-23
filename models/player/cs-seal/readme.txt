@@ -1,0 +1,1 @@
+samurai_snark: i converted this model from CS. its the old CT SEAL. enjoy! all credit goes to the original author and Valve, because without them, we'd be stuck playing DOOM... ok not really, but i still love HL!
