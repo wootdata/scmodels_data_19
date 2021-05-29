@@ -1,1 +1,101 @@
-{"seq_groups": 1, "hash": "91e6e77c726370909a7720145c238551", "tri_count": "1454"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "base",
+					"polys": 342,
+					"verts": 218
+				}, 
+				{
+					"name": "base_destroyed",
+					"polys": 366,
+					"verts": 224
+				}, 
+				{
+					"name": "nobase",
+					"polys": 272,
+					"verts": 170
+				}, 
+				{
+					"name": "nobase_destroyed",
+					"polys": 296,
+					"verts": 176
+				}, 
+				{
+					"name": "shellpile",
+					"polys": 89,
+					"verts": 64
+				}, 
+				{
+					"name": "shellpile_destroyed",
+					"polys": 89,
+					"verts": 64
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "91e6e77c726370909a7720145c238551",
+	"name": "U:\\dod\\models\\mapmodels\\88\\compile\\88flak.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 151,
+			"name": "shoot"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin1.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin2.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin1_destroyed.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin2_destroyed.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

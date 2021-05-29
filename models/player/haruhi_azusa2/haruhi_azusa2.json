@@ -1,1 +1,1173 @@
-{"seq_groups": 1, "hash": "20a520cf75d5b51fb2b55ce84145de02", "tri_count": "16253"}
+{
+	"attachments": [
+		{
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "azusa0",
+					"polys": 1778,
+					"verts": 981
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa2",
+					"polys": 3782,
+					"verts": 1938
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa3",
+					"polys": 3616,
+					"verts": 1946
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa4",
+					"polys": 2469,
+					"verts": 1275
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa5",
+					"polys": 2980,
+					"verts": 1557
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa6",
+					"polys": 320,
+					"verts": 194
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa7",
+					"polys": 448,
+					"verts": 256
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "azusa8",
+					"polys": 860,
+					"verts": 480
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 2,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 3,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 4,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 5,
+			"end": 30.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}
+	],
+	"events": [],
+	"id": 1414743113,
+	"md5": "20a520cf75d5b51fb2b55ce84145de02",
+	"name": "E:\\EXE\\TS\\Cool\\V\\Azusa.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "empty"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "standard_idle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "combat_idle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "combat_idle_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "katana_idle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "knife_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "briefcase_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "idle_onehanded"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "duck_idle_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "idle_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "duck_idle_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "idle_akimbo"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "duck_idle_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "idle_twohanded"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "duck_idle_twohanded"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "walk2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 11,
+			"name": "goduck"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "exitduck"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 16,
+			"name": "standard_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_forward_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_left_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_right_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_forward_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_left_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_right_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_forward_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_left_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "jump_right_twohanded"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "die_spinback"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 36,
+			"name": "die_back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "leg_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 47,
+			"name": "forward_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "normal_die1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "normal_die2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "normal_die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "aim_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_onehanded2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "aim_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "shoot_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "aim_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 25,
+			"name": "shoot_akimbo_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 25,
+			"name": "shoot_akimbo_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_akimbo_side"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "aim_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_twohanded2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_aim_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_aim_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_onehanded_case"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_aim_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_akimbo_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_akimbo_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_aim_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "relo_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "relo_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "relo_akimbo"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "draw_onehanded"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "draw_twohanded"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "draw_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "circback"
+		}, 
+		{
+			"fps": 33.000000,
+			"frames": 31,
+			"name": "circspin"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "latback"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "circfront"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "circkick"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "circkicklow"
+		}, 
+		{
+			"fps": 33.000000,
+			"frames": 31,
+			"name": "sidekick"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "backkick"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "airkick"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "airkick2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "duckkick"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "punchleft"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "punchright"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "punchair"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "uppercut"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 25,
+			"name": "grenade"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "knife1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "knife2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "knife3"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "knife_launch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "knife_block1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "knife_block2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 32,
+			"name": "katana1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "katana2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "katana3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "katana_air"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "katana_duck"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "katana_block1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "katana_block2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_f_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_l_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_r_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_b_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_f_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_l_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_r_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dive_b_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "dive_f_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "dive_l_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "dive_r_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "dive_b_twohanded"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 31,
+			"name": "dive_f_end"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 31,
+			"name": "dive_r_end"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 31,
+			"name": "dive_l_end"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 31,
+			"name": "dive_b_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_b_akimbo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_f_akimbo_shoot_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_f_akimbo_shoot_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_akimbo_shoot_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_akimbo_shoot_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_akimbo_shoot_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_akimbo_shoot_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_b_akimbo_shoot_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_b_akimbo_shoot_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_akimbo_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_akimbo_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_b_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_f_onehanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_onehanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_onehanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_b_onehanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_onehanded_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_onehanded_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_b_twohanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "slide_f_twohanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_r_twohanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_l_twohanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_b_twohanded_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_twohanded_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "slide_f_twohanded_left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "slide_f_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "slide_r_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "slide_l_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "slide_b_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "wheel_f"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 36,
+			"name": "wheel_l"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 36,
+			"name": "wheel_r"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "wheel_b"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 23,
+			"name": "lowwheel_f"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 23,
+			"name": "lowwheel_l"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 23,
+			"name": "lowwheel_r"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 36,
+			"name": "walljump_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "walljump_climb"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "bullettime"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "roll_f"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "roll_r"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "roll_l"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "roll_b"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 35,
+			"name": "roll_f_high"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "kungfu_block1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "kungfu_block2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "morfy_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "morfy_jump_guns"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "superjump_land"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "stock_onehanded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "stock_twohanded"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Bacino",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Dorso",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Dorso1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Dorso2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Dorso3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Collo",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Testa",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 SX Coscia",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 SX Polpaccio",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 SX Piede",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 DX Coscia",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 DX Polpaccio",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 DX Piede",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 SX Clavicola",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 SX Braccio superiore",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 SX Avambraccio",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 DX Clavicola",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 DX Braccio superiore",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 DX Avambraccio",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 SX Mano",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 DX Mano",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 27
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "7cf5080.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "7c061c0.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "566fd00.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "55e8ec0.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "7cf51a0.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "5670440.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "566b640.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "55ce3a0.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}
