@@ -20,7 +20,7 @@
 		{
 			"models": [
 				{
-					"name": "whHairUpper-C1",
+					"name": "&WH_Rejsyg_whHairUpper-C1",
 					"polys": 2015,
 					"verts": 1037
 				}
@@ -30,7 +30,7 @@
 		{
 			"models": [
 				{
-					"name": "whHairLower-C1",
+					"name": "&WH_Rejsyg_whHairLower-C1",
 					"polys": 220,
 					"verts": 121
 				}
@@ -40,7 +40,7 @@
 		{
 			"models": [
 				{
-					"name": "whFace-C1",
+					"name": "&WH_Rejsyg_whFace-C1",
 					"polys": 979,
 					"verts": 511
 				}
@@ -50,7 +50,7 @@
 		{
 			"models": [
 				{
-					"name": "whLeftArm-B1",
+					"name": "&WH_Rejsyg_whLeftArm-B1",
 					"polys": 1668,
 					"verts": 864
 				}
@@ -60,7 +60,7 @@
 		{
 			"models": [
 				{
-					"name": "whRightArm-B1",
+					"name": "&WH_Rejsyg_whRightArm-B1",
 					"polys": 1668,
 					"verts": 864
 				}
@@ -70,7 +70,7 @@
 		{
 			"models": [
 				{
-					"name": "whChest-B6",
+					"name": "&WH_Rejsyg_whChest-B6",
 					"polys": 1284,
 					"verts": 666
 				}
@@ -80,7 +80,7 @@
 		{
 			"models": [
 				{
-					"name": "whThighs-B1",
+					"name": "&WH_Rejsyg_whThighs-B1",
 					"polys": 944,
 					"verts": 495
 				}
@@ -90,7 +90,7 @@
 		{
 			"models": [
 				{
-					"name": "whCalves-B1",
+					"name": "&WH_Rejsyg_whCalves-B1",
 					"polys": 1862,
 					"verts": 946
 				}
@@ -100,7 +100,7 @@
 		{
 			"models": [
 				{
-					"name": "whEyes-B1",
+					"name": "&WH_Rejsyg_whEyes-B1",
 					"polys": 50,
 					"verts": 44
 				}
@@ -412,8 +412,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "714514302f01200b9320a606438fed41",
-	"name": "&WH_Rejsyg_v17.mdl",
+	"md5": "e0411b31e870ca7175991f0398b9dbc9",
+	"name": "&WH_Rejsyg.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1347,7 +1347,7 @@
 			"name": "barnaclechew"
 		}
 	],
-	"size": 4908164,
+	"size": 1761596,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1443,27 +1443,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "hair_c.bmp",
-			"width": 1024
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "face_c.bmp",
-			"width": 1024
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "body_c.bmp",
-			"width": 1024
+			"width": 512
 		}, 
 		{
 			"flags": 68,
-			"height": 1024,
+			"height": 512,
 			"name": "eyes_c.bmp",
-			"width": 1024
+			"width": 512
 		}
 	],
 	"version": 10
