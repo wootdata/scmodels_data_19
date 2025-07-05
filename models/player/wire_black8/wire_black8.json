@@ -1,0 +1,60 @@
+{
+	"attachments": [
+		{
+			"bone": 2,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "8",
+					"polys": 48,
+					"verts": 26
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "b5fd8406f2515730ebf0a0f835e6591d",
+	"name": "8.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}
+	],
+	"size": 68856,
+	"skeleton": [
+		{
+			"name": "Master",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "mesh.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

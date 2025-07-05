@@ -311,7 +311,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f5141f7c924ee8aab0367c78889babb0",
+	"md5": "3cb3c4180ab7034697974ffe22ca3839",
 	"name": "SMW_MarioSmall.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1222,7 +1222,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 206,
+			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
@@ -1271,7 +1271,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1126352,
+	"size": 1103148,
 	"skeleton": [
 		{
 			"name": "Bip01",
