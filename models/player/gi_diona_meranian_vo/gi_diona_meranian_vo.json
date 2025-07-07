@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -752,7 +753,11 @@
 	],
 	"id": 1414743113,
 	"md5": "045b35f60c623bf4ddc288287a70f57c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Diona_Meranian.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

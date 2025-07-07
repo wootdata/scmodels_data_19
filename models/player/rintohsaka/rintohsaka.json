@@ -43,6 +43,7 @@
 			"name": "Body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -299,7 +300,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34f641f4f33dfef004d6867220535810",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Tohsaka.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

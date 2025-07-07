@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5488c54b9d7b9464b0b0c232d7009e5c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Gordon/Gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c7d76e99d74d5581764c8b28afedbe9d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode)",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

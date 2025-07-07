@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -414,7 +415,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0411b31e870ca7175991f0398b9dbc9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "&WH_Rejsyg.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d90bf07f0e021f24c55d4ce61882de61",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_captainf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -831,7 +832,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f690882dd884726e534d4ec0ccf9b2a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Arona.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

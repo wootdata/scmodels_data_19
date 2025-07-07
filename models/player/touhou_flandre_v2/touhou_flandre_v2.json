@@ -103,6 +103,7 @@
 			"name": "ribon"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "92cd8d88367c961dd94e4701f57f739b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "robo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

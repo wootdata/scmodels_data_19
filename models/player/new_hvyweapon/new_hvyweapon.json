@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71b59b266df4886d7dd75d3fd1a7f060",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hvyweapon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

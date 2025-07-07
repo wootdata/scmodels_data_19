@@ -73,6 +73,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1af9ea3764cc77db5fbbfeca3df52273",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mcdonold.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

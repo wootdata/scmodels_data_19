@@ -63,6 +63,7 @@
 			"name": "holster"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8a7b2d7354e6bc79209f83dd795a9c16",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ACU.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

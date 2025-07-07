@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5d9ac6710631cd796fbb615286c10e90",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "revenant_doot.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

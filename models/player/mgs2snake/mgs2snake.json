@@ -43,6 +43,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "85c3313de916f2579192423bd6b71787",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mgs2snake.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

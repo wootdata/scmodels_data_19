@@ -37,12 +37,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1481247733,
 	"events": [],
 	"id": 1414743113,
 	"md5": "91e6e77c726370909a7720145c238551",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "U:\\dod\\models\\mapmodels\\88\\compile\\88flak.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

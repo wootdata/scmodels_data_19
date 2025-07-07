@@ -98,6 +98,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -368,7 +369,11 @@
 	],
 	"id": 1414743113,
 	"md5": "92ebdf5228c08edfbd0ed7e1e6dc57e6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Naluri.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

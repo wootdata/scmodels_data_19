@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -451,7 +452,11 @@
 	],
 	"id": 1414743113,
 	"md5": "164ca210c006b72b790f4ea77e1cd500",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bear_smokemen.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

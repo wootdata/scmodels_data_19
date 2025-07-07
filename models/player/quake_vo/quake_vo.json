@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -289,7 +290,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f215b7c08b486f04ba71afb0b08589ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "quake.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

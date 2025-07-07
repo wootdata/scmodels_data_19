@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -310,7 +311,11 @@
 	],
 	"id": 1414743113,
 	"md5": "870ef9f4f5acf725e6cafd069796fdaa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ts_gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

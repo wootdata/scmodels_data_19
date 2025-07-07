@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "065e0cfa6976bf8df4996f6d158f30dc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Games\\CS1.6\\valve\\models\\comdecom\\chipendale\\th_nypdcop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

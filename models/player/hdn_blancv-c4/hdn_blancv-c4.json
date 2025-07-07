@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -780,7 +781,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1fa2537874ab9c7a8a95dc8853bd465d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_BlancV.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

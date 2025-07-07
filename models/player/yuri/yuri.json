@@ -28,6 +28,7 @@
 			"name": "SLeNd3rMaN23"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7a2a7b275167854fd10fc2d8b12cf265",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\OW\\Desktop\\yuri\\HatsuneMiku1\\yuri.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

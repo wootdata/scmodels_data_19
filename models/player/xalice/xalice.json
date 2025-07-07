@@ -78,6 +78,7 @@
 			"name": "dress_detail"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -468,7 +469,11 @@
 	],
 	"id": 1414743113,
 	"md5": "915a9ff5d603c5649a968c6668669929",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XAlice.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

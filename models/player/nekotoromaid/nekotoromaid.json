@@ -192,6 +192,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "68329cb0afdb9d76e27a5e43b60e21c2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nekotoro_maid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

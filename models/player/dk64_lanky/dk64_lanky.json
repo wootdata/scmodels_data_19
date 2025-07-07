@@ -33,6 +33,7 @@
 			"name": "lankey"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7155126b8c06d62bb0b425e12641a9b8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DK64_Lanky.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

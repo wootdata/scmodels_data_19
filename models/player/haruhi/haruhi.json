@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a582139512693995031c44566ce81125",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "haruhi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

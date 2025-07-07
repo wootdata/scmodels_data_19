@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "302a91d3c79fe3e400ef0405447f1ce2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_UBSS_HUNK.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

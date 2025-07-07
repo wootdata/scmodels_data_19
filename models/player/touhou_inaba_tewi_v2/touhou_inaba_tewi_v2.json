@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aafd1a0cd11ed215b7529c55744b6c0e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_inaba_tewi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -433,7 +434,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b4a88c17dc15d668d92e344e9301002",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toho_joon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

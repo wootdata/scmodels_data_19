@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265568566,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cffae72850ffd073374395b4daecd970",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-TrooperDesert2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

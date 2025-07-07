@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "14fe48b643b1dac0ae2c76979227f3d4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/chocobo/cht",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

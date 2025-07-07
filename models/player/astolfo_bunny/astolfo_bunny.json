@@ -313,6 +313,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -968,7 +969,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e48d4bce832bea47ebd886eebc3abd33",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "astolfo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

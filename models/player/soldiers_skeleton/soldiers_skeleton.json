@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c6317945cf56fd756f3a9b93b167ec3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Soldiers_Skeleton.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

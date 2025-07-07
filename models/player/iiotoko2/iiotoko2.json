@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "07c4f277db10eb9618c82a879a662ec5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "iiotoko2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

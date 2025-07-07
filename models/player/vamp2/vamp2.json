@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8d9a8dbc9a86eaf2134942a4ccc662f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vamp.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

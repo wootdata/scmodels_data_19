@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "07b44fc27ac314f87cc74f888e54ddcd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_helmet3.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

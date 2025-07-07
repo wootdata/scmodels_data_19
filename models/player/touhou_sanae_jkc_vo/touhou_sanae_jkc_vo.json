@@ -133,6 +133,7 @@
 			"name": "body11"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -726,7 +727,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d034c7be473d8537bd935dd44c78a5c6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_sanae_jkc.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

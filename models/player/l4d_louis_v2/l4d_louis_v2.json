@@ -133,6 +133,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -410,7 +411,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8dd00a3bd76f14e1c84d3cf31a251012",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "l4d_louis.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

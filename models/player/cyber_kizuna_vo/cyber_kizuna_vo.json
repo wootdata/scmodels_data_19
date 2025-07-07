@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -851,7 +852,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ad5732cd6713adb7bd521174e55a4cdb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cyber_kizuna.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

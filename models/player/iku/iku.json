@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3956186515ec22a7d60fc878bf2f949b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "iku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
