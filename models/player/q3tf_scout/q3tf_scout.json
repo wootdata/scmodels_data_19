@@ -306,6 +306,7 @@
 	"md5": "ab012b803300da2754d32ebe1948816d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "scout.mdl",
 	"preview": true,
 	"readme": false,
