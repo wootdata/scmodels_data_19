@@ -1,0 +1,11 @@
+Place under Sven Co-op/svencoop_addon/models/player
+File hierarchy should look like this:
+
+svencoop_addon
+>>models
+>> >>player
+>> >> >>meisho_doto
+>> >> >> >>meisho_doto.bmp
+>> >> >> >>meisho_doto.mdl
+
+Thanks for downloading!!!!! :D

@@ -176,7 +176,7 @@
 			"type": 32
 		}
 	],
-	"date": 1702632944,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -729,6 +729,7 @@
 	"md5": "9121c3a4d45dd45fb6656fb55b63ba4d",
 	"metahook_external": false,
 	"metahook_ragdoll": true,
+	"modid": 7,
 	"name": "touhou_sanae_jky_v2.mdl",
 	"preview": true,
 	"readme": false,

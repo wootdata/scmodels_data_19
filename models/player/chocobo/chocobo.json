@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185450896,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "14fe48b643b1dac0ae2c76979227f3d4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/chocobo/cht",
 	"preview": true,
 	"readme": true,

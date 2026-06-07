@@ -172,7 +172,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702328174,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -767,6 +767,7 @@
 	"md5": "f9375f6d48e545406460ecbdd82676e7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "hololive_korone-c1.mdl",
 	"preview": true,
 	"readme": false,

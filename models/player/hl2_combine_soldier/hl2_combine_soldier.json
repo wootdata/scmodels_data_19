@@ -78,7 +78,7 @@
 			"type": 8
 		}
 	],
-	"date": 1299268798,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -190,6 +190,7 @@
 	"md5": "ea13d8faca5a2ce0eacf60e0d32e6596",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "combine_soldier.mdl",
 	"preview": true,
 	"readme": false,

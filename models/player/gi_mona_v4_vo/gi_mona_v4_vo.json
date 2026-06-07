@@ -216,7 +216,7 @@
 			"type": 32
 		}
 	],
-	"date": 1700847551,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -776,6 +776,7 @@
 	"md5": "afac24508f295cc2f184a8152ce7cc79",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_mona_v4.mdl",
 	"preview": true,
 	"readme": false,

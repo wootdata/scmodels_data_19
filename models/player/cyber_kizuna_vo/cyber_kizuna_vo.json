@@ -182,7 +182,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702240695,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -854,6 +854,7 @@
 	"md5": "ad5732cd6713adb7bd521174e55a4cdb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "cyber_kizuna.mdl",
 	"preview": true,
 	"readme": false,

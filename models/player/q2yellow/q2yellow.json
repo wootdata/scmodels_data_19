@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 945227790,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "0be71414df746d26cc810c37a5fddc06",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/q2marine/q2marine.mdl",
 	"preview": true,
 	"readme": false,

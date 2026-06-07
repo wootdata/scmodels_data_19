@@ -202,7 +202,7 @@
 			"type": 8
 		}
 	],
-	"date": 1701331370,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -755,6 +755,7 @@
 	"md5": "045b35f60c623bf4ddc288287a70f57c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "GI_Diona_Meranian.mdl",
 	"preview": true,
 	"readme": false,

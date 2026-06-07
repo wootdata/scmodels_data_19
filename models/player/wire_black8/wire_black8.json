@@ -18,11 +18,18 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1780811530,
 	"events": [],
 	"id": 1414743113,
 	"md5": "b5fd8406f2515730ebf0a0f835e6591d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "8.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -148,7 +148,7 @@
 			"type": 8
 		}
 	],
-	"date": 1704224993,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -715,6 +715,7 @@
 	"md5": "6681afedfa1d827f9d2473d5c9107259",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "ba_hoshino.mdl",
 	"preview": true,
 	"readme": false,
